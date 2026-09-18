@@ -6,8 +6,8 @@
     <h1>${msg}</h1>
     <h1>Hello, world. (updated by junhasuh),</h1>
     <h2>Today is <fmt:formatDate value="${today}" pattern="yyyy-MM-dd" /></h2>
-    <h3>Version: 4.0</h3>
+    <h3>Version: 2.0</h3>
     <h3>과정: LGCNS AM Inspire 5기</h3>
-    <h4>열심히 배워보자./h4>
+    <h4>We have to study really hard</h4>
 </body>
 </html>
