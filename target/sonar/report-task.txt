@@ -1,6 +1,6 @@
 projectKey=com.njonecompany.web:web
 serverUrl=http://localhost:9000
-serverVersion=9.5.0.56709
+serverVersion=9.9.8.100196
 dashboardUrl=http://localhost:9000/dashboard?id=com.njonecompany.web%3Aweb
-ceTaskId=AYJr8_sywVTD7cEa5JiI
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYJr8_sywVTD7cEa5JiI
+ceTaskId=AaC5kmisv0e55Db0yTqU
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AaC5kmisv0e55Db0yTqU
